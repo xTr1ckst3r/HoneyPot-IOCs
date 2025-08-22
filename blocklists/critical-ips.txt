@@ -1,9 +1,0 @@
-# Critical IOCs - Immediate Blocking Required
-# Generated: 2025-08-21T18:24:51.774Z
-# Critical IPs: 2
-# High Risk IPs: 2
-#
-2.57.121.148
-45.234.176.18
-185.215.166.186
-177.43.78.218
