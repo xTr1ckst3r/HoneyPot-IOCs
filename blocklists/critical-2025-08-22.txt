@@ -1,0 +1,16 @@
+# CRITICAL T-Pot Attackers - IMMEDIATE BLOCKING REQUIRED
+# Generated: 2025-08-22T04:25:41.131112
+# Critical IPs (≥200 attacks): 4
+# High Risk IPs (≥100 attacks): 4
+#
+# These IPs launched massive attacks against our honeypot
+# BLOCK IMMEDIATELY to protect your infrastructure
+#
+2.57.121.148
+45.234.176.18
+177.43.78.218
+170.64.198.43
+176.88.29.133
+83.220.35.3
+113.199.236.53
+77.79.170.241
