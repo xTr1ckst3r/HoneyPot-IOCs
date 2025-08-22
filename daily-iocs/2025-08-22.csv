@@ -1,0 +1,3 @@
+IP,Attacks,Severity,LastSeen,Source
+2.57.121.148,500,CRITICAL,2025-08-22T04:14:39.895Z,Emergency Fallback
+45.234.176.18,300,CRITICAL,2025-08-22T04:14:39.895Z,Emergency Fallback
