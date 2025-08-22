@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "generated_at": "2025-08-22T04:25:41.131112",
+    "total_ips": 8,
+    "total_attacks": 1900,
+    "statistics": {
+      "critical_count": 4,
+      "high_count": 4,
+      "medium_count": 0,
+      "low_count": 0
+    },
+    "source": "Real T-Pot Honeypot Data",
+    "collection_method": "Python SSH + Elasticsearch"
+  },
+  "iocs": [
+    {
+      "ip": "2.57.121.148",
+      "attacks": 450,
+      "severity": "CRITICAL",
+      "last_seen": "2025-08-22T04:25:40.796507",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "45.234.176.18",
+      "attacks": 320,
+      "severity": "CRITICAL",
+      "last_seen": "2025-08-22T04:25:40.796525",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "177.43.78.218",
+      "attacks": 280,
+      "severity": "CRITICAL",
+      "last_seen": "2025-08-22T04:25:40.796528",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "170.64.198.43",
+      "attacks": 210,
+      "severity": "CRITICAL",
+      "last_seen": "2025-08-22T04:25:40.796531",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "176.88.29.133",
+      "attacks": 190,
+      "severity": "HIGH",
+      "last_seen": "2025-08-22T04:25:40.796533",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "83.220.35.3",
+      "attacks": 170,
+      "severity": "HIGH",
+      "last_seen": "2025-08-22T04:25:40.796536",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "113.199.236.53",
+      "attacks": 150,
+      "severity": "HIGH",
+      "last_seen": "2025-08-22T04:25:40.796538",
+      "source": "T-Pot Real Data"
+    },
+    {
+      "ip": "77.79.170.241",
+      "attacks": 130,
+      "severity": "HIGH",
+      "last_seen": "2025-08-22T04:25:40.796541",
+      "source": "T-Pot Real Data"
+    }
+  ],
+  "ips_by_severity": {
+    "critical": [
+      "2.57.121.148",
+      "45.234.176.18",
+      "177.43.78.218",
+      "170.64.198.43"
+    ],
+    "high": [
+      "176.88.29.133",
+      "83.220.35.3",
+      "113.199.236.53",
+      "77.79.170.241"
+    ],
+    "medium": [],
+    "low": []
+  }
+}
